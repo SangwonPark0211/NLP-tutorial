@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Text-Summarization/dataset/archive.zip
+Text-Summarization/dataset/database.sqlite
+Text-Summarization/dataset/Reviews.csv
+Text-Summarization/dataset/hashes.txt
