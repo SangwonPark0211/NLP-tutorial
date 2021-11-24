@@ -131,3 +131,12 @@ Text-Summarization/dataset/archive.zip
 Text-Summarization/dataset/database.sqlite
 Text-Summarization/dataset/Reviews.csv
 Text-Summarization/dataset/hashes.txt
+Text-Summarization/glove.6B.300d.txt
+Text-Summarization/cc.en.300.bin
+Text-Summarization/cc.en.300.bin.gz
+Text-Summarization/glove.6B.50d.txt
+Text-Summarization/glove.6B.100d.txt
+Text-Summarization/glove.6B.200d.txt
+Text-Summarization/glove.6B.zip
+Text-Summarization/GoogleNews-vectors-negative300.bin.gz
+Text-Summarization/tennis_articles_v4.csv
