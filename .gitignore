@@ -140,3 +140,6 @@ Text-Summarization/glove.6B.200d.txt
 Text-Summarization/glove.6B.zip
 Text-Summarization/GoogleNews-vectors-negative300.bin.gz
 Text-Summarization/tennis_articles_v4.csv
+Seq2Seq/_about.txt
+Seq2Seq/fra-eng.zip
+Seq2Seq/fra.txt
